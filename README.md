@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MeoMeiMei
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in animating
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on Indie Games
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: -
 
 <!---
 MeoMeiMei/MeoMeiMei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
